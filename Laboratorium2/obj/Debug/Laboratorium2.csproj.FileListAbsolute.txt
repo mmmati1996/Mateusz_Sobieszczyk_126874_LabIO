@@ -1,0 +1,5 @@
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Laboratorium2\bin\Debug\Laboratorium2.exe.config
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Laboratorium2\bin\Debug\Laboratorium2.exe
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Laboratorium2\bin\Debug\Laboratorium2.pdb
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Laboratorium2\obj\Debug\Laboratorium2.exe
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Laboratorium2\obj\Debug\Laboratorium2.pdb

@@ -1,0 +1,6 @@
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\bin\Debug\Mateusz_Sobieszczyk_126874_LabIO.exe.config
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\bin\Debug\Mateusz_Sobieszczyk_126874_LabIO.exe
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\bin\Debug\Mateusz_Sobieszczyk_126874_LabIO.pdb
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\obj\Debug\Laboratorium1.csprojResolveAssemblyReference.cache
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\obj\Debug\Mateusz_Sobieszczyk_126874_LabIO.exe
+c:\users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\Mateusz_Sobieszczyk_126874_LabIO\obj\Debug\Mateusz_Sobieszczyk_126874_LabIO.pdb
