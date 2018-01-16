@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium1", "Mateusz_Sobieszczyk_126874_LabIO\Laboratorium1.csproj", "{80A43A26-1727-44BD-800F-996A1082DBDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium1", "Laboratorium1\Laboratorium1.csproj", "{80A43A26-1727-44BD-800F-996A1082DBDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium2", "Laboratorium2\Laboratorium2.csproj", "{BFF4B224-CECE-4D61-8BDB-CE35753B84D8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium3", "Laboratorium3\Laboratorium3.csproj", "{E30F42C1-42D7-431F-AE44-9478EEE60DDC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium4", "Laboratorium4\Laboratorium4.csproj", "{534FC603-34A0-4DE5-9CB9-C62BA6962369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieDodatkowe_BitMapy", "ZadanieDodatkowe_BitMapy\ZadanieDodatkowe_BitMapy.csproj", "{A852A31A-95DA-4661-BC36-82F352EE3566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZadanieDodatkowe_EAP", "ZadanieDodatkowe_EAP\ZadanieDodatkowe_EAP.csproj", "{86E38C90-EA0E-44FA-9466-F941A5B925D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{534FC603-34A0-4DE5-9CB9-C62BA6962369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534FC603-34A0-4DE5-9CB9-C62BA6962369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534FC603-34A0-4DE5-9CB9-C62BA6962369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A852A31A-95DA-4661-BC36-82F352EE3566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A852A31A-95DA-4661-BC36-82F352EE3566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A852A31A-95DA-4661-BC36-82F352EE3566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A852A31A-95DA-4661-BC36-82F352EE3566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E38C90-EA0E-44FA-9466-F941A5B925D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E38C90-EA0E-44FA-9466-F941A5B925D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E38C90-EA0E-44FA-9466-F941A5B925D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E38C90-EA0E-44FA-9466-F941A5B925D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

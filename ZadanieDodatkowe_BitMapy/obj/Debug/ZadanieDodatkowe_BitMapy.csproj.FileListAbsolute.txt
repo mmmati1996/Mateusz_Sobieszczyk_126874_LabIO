@@ -1,0 +1,14 @@
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\bin\Debug\ZadanieDodatkowe_BitMapy.exe.config
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\bin\Debug\ZadanieDodatkowe_BitMapy.exe
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\bin\Debug\ZadanieDodatkowe_BitMapy.pdb
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.csprojResolveAssemblyReference.cache
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\MainWindow.g.cs
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\App.g.cs
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy_MarkupCompile.cache
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy_MarkupCompile.lref
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\MainWindow.baml
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.g.resources
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.Properties.Resources.resources
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.csproj.GenerateResource.Cache
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.exe
+C:\Users\mmmat\documents\visual studio 2017\Projects\Mateusz_Sobieszczyk_126874_LabIO\ZadanieDodatkowe_BitMapy\obj\Debug\ZadanieDodatkowe_BitMapy.pdb
